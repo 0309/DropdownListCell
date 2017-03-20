@@ -96,8 +96,7 @@
 				TargetAttributes = {
 					30CBBC3E1E7E280D00286A75 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 7D63C6DMK2;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -261,7 +260,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7D63C6DMK2;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DropdownListCell/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps0309.DropdownListCell;
@@ -274,7 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7D63C6DMK2;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = DropdownListCell/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps0309.DropdownListCell;
@@ -302,6 +301,7 @@
 				30CBBC531E7E280D00286A75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
